@@ -62,7 +62,7 @@
         <jna.version>5.5.0</jna.version>
         <oshi.version>4.4.0</oshi.version>
         <fastdfs-client-java.version>0.0.1-SNAPSHOT</fastdfs-client-java.version>
-        <shiro-spring.version>1.4.0</shiro-spring.version>
+        <shiro-spring.version>1.7.0</shiro-spring.version>
         <shiro-redis.version>3.1.0</shiro-redis.version>
         <mybatis-plus-boot-starter.version>2.2.0</mybatis-plus-boot-starter.version>
     </properties>
